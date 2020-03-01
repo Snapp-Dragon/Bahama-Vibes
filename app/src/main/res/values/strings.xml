@@ -1,0 +1,197 @@
+<resources>
+    <string name="artist">Junkanoo</string>
+    <string name="food">food</string>
+    <string name="monuments">Monuments</string>
+    <string name="app_name">BahamaVibes</string>
+    <string name="info">INFO</string>
+    <string name="bahamian_flag">Bahamian Flag</string>
+    <string name="anthem">Bahamas Anthem: March On Bahama Land</string>
+    <string name="created_by_chad">Created by Chad Farrington</string>
+    <string name="hog">Playing: Hog In The Mud</string>
+    <string name="image">image</string>
+    <string name="proceed">proceed to App</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_1">Fragment one</string>
+    <string name="fragment_2">fragment 2</string>
+    <string name="fragment_3">fragment 3</string>
+
+    <string name="whatIsVibes">Bahama vibes is an app that introduces its users to
+    rich Bahamian culture.Consisting of over 700 islands and keys, the Bahamas has a unique culture
+        which has evolved over generations from a mixture of African, British, and American
+        influences.Learn about the native cuisine, experience the thrill that is junkanoo or use
+        the apps monument tracker to find monuments and ruins around the island!</string>
+
+
+    <!--Dish descriptions -->
+    <string name="conch_recipe">
+        Ingredients\n\n
+8 oz pre-tenderized conch.\n
+10 tbsp fresh lime juice.\n
+5 tbsp fresh orange juice.\n
+1 ripe tomato, diced.\n
+1/4 cup diced onion.\n
+1/2 cup diced bell peppers.\n
+1 minced goat pepper.\n
+Salt and pepper to taste.\n\n
+Directions\n\nWash conch with a mixture of lemon, salt and water.
+Clean the conch, remove slime, and cut into small cubes.
+Place in mixing bowl with remaining ingredients.
+Cover and let the conch and vegetables marinate in refrigerator for 15 minutes.
+Mix and serve.
+    </string>
+
+    <string name="grouper_finger_recipe">
+
+        Ingredients\n\n
+2 lbs fresh grouper fillets or any firm white fleshed fish.\n
+Juice of 2 limes.\n
+1 cup flour.\n
+1/4 cup milk.\n
+2 eggs, beaten.\n
+Salt and pepper to taste.\n\n
+Directions:\n\n
+Cut grouper fillets into strips.
+Season with salt and pepper to taste.
+Squeeze lime juice all over the fish strips.
+In a deep sauce pan or deep fryer heat several inches of oil to 360 degrees.
+Dip the fish strips in milk, then egg and coat with flour.
+Remove excess flour then fry until golden brown. Do not over crowd pan.
+Serve with rice and peas.
+
+    </string>
+
+    <string name="crab_n_dough">
+
+        Ingredients\n\n
+2 cups Flour\n
+2 tsp Baking Powder\n
+¼ tsp Salt\n
+¾ cup Water\n
+6 Crabs\n
+1 cup Water\n
+½ tsp salt\n
+Wild yam, potato or cassava optional\n\n
+
+Directions\n\n
+Combine flour, baking powder and salt, mixed with water. Make a firm dough. knead well and allow to rest 10 minutes.
+In a large size pot add a cup of water seasoned with salt, add Pepper, and bring to a boil then add to the boiling water if desired  yam, potato or cassava.
+Flatten dough and place over the crab. Cover the pot, boil on medium heat 20 – 25 minutes without opening the pot.
+
+    </string>
+
+    <string name="steamed_conch">
+
+Ingredients\n\n
+2 Fresh conch\n
+1 Lemon\n
+1 Hot pepper (chopped) [optional, based upon your taste]\n
+2 Fresh, ripe tomatoes (skinned and diced)\n
+1/2 med onion – (thinly sliced)\n
+1 Medium bell pepper (any color)\n
+1 Small stick of celery (chopped)\n
+1 Carrot (chopped)\n
+1 Teaspoon thyme\n
+Salt and black pepper\n\n
+
+
+Tenderize your conch, fresh conch needs to be tenderized. This is done by pounding it (can use a meat tenderizer or rolling pin)
+Boil the conch for 10 minutes,this can be done in a small pot in 2 cups of water. No salt is needed. Retain the water after boiling the conch to use for the sauce.
+Create the sauce.Start off by sautéing the onions with the conch until they get a little color, then add the hot pepper, tomatoes, bell pepper, celery, carrot and thyme.
+Add a little water and simmer these ingredients together gently until they reduce into a thick sauce.Add the conch to the sauce and simmer a little longer - 5-10 minutes will do just fine. At the same time, season with salt and black pepper to taste.
+
+    </string>
+
+    <string name="stew_fish">
+        Ingredients\n\n
+2 – 3 lbs fish cleaned and seasoned (we normally use grouper or snapper)\n
+1/3 cup cooking oil\n
+1 small onion chopped\n
+thyme\n
+2 tbsp tomato paste (optional)\n
+Salt and pepper to taste\n\n
+
+
+Directions\n\n
+Partially fry fish until brown on both sides.
+Heat oil in heavy frying pan/skillet, add flour and stir continually until brown. Take care that it does not burn.
+Add onion, thyme and tomato paste (optional) and mix well.
+Place in a pot of boiling water (about 6 cups).  Reduce heat and allow to simmer for about 15 – 20 minutes or until fish is properly cooked.
+Serve with grits,johnny cake, homemade bread.
+
+
+    </string>
+
+    <string name="sheep_tonugue">
+
+        Ingredients\n\n
+4-6 sheep’s tongue\n
+1 medium onion\n
+2 medium potatoes\n
+3-4 bay leaves\n
+1-2 tbsp. whole all spice\n
+lemon juice and/or limes\n
+optional ingredients: carrots, celery, goat pepper\n\n
+
+ Directions\n\n
+
+Begin by heating a pot of water with lots of salt until comes to a boil. Add the sheep’s tongue and let it boil or scald for 10-15 minutes. You can use this time to prepare a johnny cake or bread to go with it or peel and dice the potatoes and onion.
+Drain off hot water and run the tongues under cold water. You’ll need to be able to handle them with your fingers so allow to cool for a few minutes. With a filet knife, remove the rough, white external layer on the tongue that has the taste buds.
+Try to cut as close to the skin as possible to avoid throwing away meat. Dice into small bite size pieces and set aside in a bowl.
+
+Return the pot to the stove with fresh water and allow to come to a boil. Add potatoes, onions, all spice, bay leaves and optional ingredients. Add the sheep’s tongue and continue cooking until potatoes are done. Season with salt and lemon juice to taste.
+Serve while hot.
+
+    </string>
+
+    <string name="guavaduff">
+
+Ingredients\n
+12 -15 large guavas\n
+3 cups flour \n
+4 teaspoons baking powder \n
+1/2 teaspoon salt \n
+1/4 cup sugar\n
+1/4 cup butter\n
+1/4 cup Crisco\n
+2 eggs, separated\n
+2 teaspoons vanilla\n\n
+
+Directions\n\n
+Peel and core guavas. Rub cores through sieve to obtain some of the pulp, and mix with cut up guavas. Add sugar to taste.
+Beat butter, Crisco with sugar, then beat in egg yokes.
+Sieve flour, baking powder and salt and fold into butter/egg mixture. Add vanilla.
+Divide dough in 3 balls. Refrigerate 1/2 hour until firm.
+Spread out each of the balls on a piece of foil; cover with Guava. Starting at one end, fold into roll.
+Cover with foil, place in baking bag and seal. Boil 1 hour in large pot with hot water. Slice and serve warn with Sauce.
+FOR SAUCE: Beat egg whites in dish until foamy. Cream butter and sugar in a separate dish until sugar has dissolved. Gradually add egg whites and vanilla and continue beating till smooth. Add to top of warm Guava Duff when serving.
+
+
+    </string>
+
+    <string name="boiled_fish">
+        Ingredients\n\n
+2 lbs grouper/n
+2 limes/n
+2 yellow onions/n
+2 celery stalks/n
+1 tsp ground thyme\n
+1-2 tbsp butter or margarine\n
+¼ goat pepper\n
+½ lbs potatoes, peeled and thickly cubed\n
+Salt and pepper to taste\n\n
+
+Directions\n\n
+On a separate dish, season fish with lime juice, salt, and pepper.
+Fill a separate pot with two (2) cups of water and combine yellow onions, celery, garlic, thyme, butter, cloves, peppers, and potatoes.
+Bring to a boil and then cover and cook for 15 minutes, or until potatoes are almost done. Add more water to fill the pot, if necessary.
+Add fish with lime juice and reduce heat to simmer the stew for 10 minutes, or until the fish begins to flake off the bone. Add salt and pepper to taste as needed.
+        
+    </string>
+    <string name="api_key">AIzaSyDZuN3xaJIcrHirrr8KK8bMqioEWdT3rSg</string>
+    <string name="to_app">proceed</string>
+
+
+</resources>
