@@ -1,2 +1,2 @@
 # BahamaVibesProj
-#Created by Chad farrington
+# Bahamas Cultural App written in java for android.
